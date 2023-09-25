@@ -17,7 +17,7 @@ void TDMerge(size_t start, size_t middle, size_t end, int *dest, int *source)
 {
 	size_t i, j, k;
 
-	printf("Merging ...\n");
+	printf("Merging...\n");
 	printf("[left]: ");
 	print_array(source + start, middle - start);
 	printf("[right]: ");
