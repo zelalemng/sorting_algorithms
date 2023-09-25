@@ -72,7 +72,7 @@ void hoare_sort(int *array, size_t size, int left, int right)
 }
 
 /**
- * quik_sort_hoare - Sort an array of integers in ascending
+ * quick_sort_hoare - Sort an array of integers in ascending
  * order using the quicksort algorithm
  * @array: an array of integers
  * @size: The size of the array.
