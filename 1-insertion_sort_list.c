@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * insertion_sort - sorts a doubly linked list of integer in ascending
+ * insertion_sort_list - sorts a doubly linked list of integer in ascending
  * order using the insertion sort algorithm
  * @list: Double pointer to the head of the linked list
  *
