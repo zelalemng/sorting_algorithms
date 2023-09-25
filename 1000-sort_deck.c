@@ -90,6 +90,7 @@ void insertion_sort_deck_kind(deck_node_t **deck)
 			else
 				*deck = iter;
 			insert->prev = iter;
+			insert = iter->prev;
 		}
 	}
 }
